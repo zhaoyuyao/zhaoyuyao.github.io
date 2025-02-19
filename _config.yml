@@ -22,12 +22,12 @@ repository               : "zhaoyuyao/zhaoyuyao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Yuyao_Zhao.jpg"
+  avatar           : "Yuyao_Zhao.png"
   name             : "Yuyao Zhao"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in cognitive psychology"
   location         : "Chapel Hill, NC"
-  employer         : "University of North Carolina at Chapel Hill"
+  employer         : "UNC Chapel Hill"
   uri              : # URL
   email            : "yuyzhao@unc.edu" 
 
