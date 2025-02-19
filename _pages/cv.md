@@ -11,46 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Ph.D student in Cognitive Psychology, Department of Psychology and Neuroscience, UNC Chapel Hill, 2028 (expected)
+* M.S. in Cognitive Neuroscience, State Key Laboratory of Cognitive Neuroscience and Learning & IDG/McGovern Institute for Brain Research, Beijing Normal University, 2023
+* B.S. in Psychology, Faculty of Psychology, Beijing Normal University, 2020
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Imaging analysis tools: MATLAB (including SPM, CONN, GRETNA, PTB, etc.), AFNI (linux).
+  * Statistical tools: R, SPSS, Python, Mplus.
+  * Experiment tools: E-Prime, Qualtrics.
+  * Graphing tools: BrainNet Viewer, MRIcro, Surfice, etc.
+* Imaging methods
+  * MRI
+  * wake/sleep EEG
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Projects
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+  <ul>{% for post in site.projects reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Conferences
+======
+  <ul>{% for post in site.conferences reversed %}
+    {% include archive-single-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
@@ -59,6 +50,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
