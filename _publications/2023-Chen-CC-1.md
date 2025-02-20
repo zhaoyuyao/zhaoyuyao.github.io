@@ -6,7 +6,7 @@ permalink: /publication/2023-Chen-CC-1
 excerpt: ''
 date: 2023-03-01
 venue: 'Cerebral Cortex'
-paperurl: '[http://zhaoyuyao.github.io/files/paper1.pdf](http://zhaoyuyao.github.io/files/2023-Chen-CC-1.pdf)'
+paperurl: 'http://zhaoyuyao.github.io/files/2023-Chen-CC-1.pdf'
 citation: 'Menglu Chen, Ying He, Lei Hao, Jiahua Xu, Ting Tian, Siya Peng, Gai Zhao, Jing Lu, Yuyao Zhao, Hui Zhao, Min Jiang, Jia-Hong Gao, Shuping Tan, Yong He, Chao Liu, Sha Tao, Lucina Q Uddin, Qi Dong, Shaozheng Qin, Default mode network scaffolds immature frontoparietal network in cognitive development, Cerebral Cortex, Volume 33, Issue 9, 1 May 2023, Pages 5251–5263, https://doi.org/10.1093/cercor/bhac414'
 ---
 
