@@ -83,6 +83,15 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+    
+# Conferences Category - The following the list of publication categories and their headings
+conferences_category:
+  posters:
+    title: 'Posters'
+  talks:
+    title: 'Talks'    
+  papers:
+    title: 'Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
