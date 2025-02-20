@@ -1,40 +1,21 @@
 ---
-permalink: /teaching/
-title: "Teaching"
+permalink: /projects/
+title: "Projects"
 ---
 
-Research plays a central role in my teaching as students improve their
-analytical skills and master the tools of data analysis through hands-on
-experience. I have taught undergraduate courses on political violence and
-statistical methodology. While at UNC, I taught the graduate statistics lab for
-Advanced Topics in Political Data Science, where my work was recognized by the
-Political Science Department's Earle Wallace Award for Graduate Student
-Teaching. I also served as a teaching assistant for courses in international
-relations and American politics at UNC, in addition to the ICPSR Summer Program
-where I was a teaching assistant for a course on Bayesian modeling in the social
-sciences. I am also a
-[certified instructor](https://carpentries.org/instructors/#jayrobwilliams) with
-[The Carpentries](https://carpentries.org/), which develops evidence-based
-methods for teaching "essential data and computational skills for conducting
-efficient, open, and reproducible research."
+## Leading Projects
+### Maternal psychiatric history and children’s executive function development and psychopathology (manuscript)
+Maternal psychiatric history significantly impacts the future well-being of offspring. We found that high-risk children exhibited elevated EF impairments and psychopathology symptoms compared to the low-risk group over six years. Improvements in EF predicted reductions in psychopathological symptoms, and relatively intact EF protected high-risk children from developing clinically significant psychopathology. The poster of this project was presented at the annual conference of the Triangle Society of Neuroscience in 2024.
+  
+### Cortico-striatal interaction in working memory and effect of growth mindset (preprint)
+The growth mindset benefits the development of working memory capacity in school-aged children. Via analyzing imaging data, we found that the growth mindset promoted working memory through enhanced frontoparietal, salience network activity and cortico-striatal interactions. Moreover, the reconfiguration of networks prepared children for demanding tasks in the future.
 
+## Cooperating Projects
+### Neural reconfiguration of the multiple-demand system and math performance during childhood and adolescence (manuscript)
+The brain organization underlies multiple executive functions is also strongly associated with math performance, which is challenging but crucial in primary education. We found that the dynamic mechanisms of multiple-demand systems identified during four executive function tasks predicted individual math performance during childhood and adolescence. The poster of this project was presented at the annual conference of the Society of Neuroscience in 2024.
 
-You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
-You can find a selection of my teaching materials, including all of the labs
-from Advanced Topics in Political Data Science, [here](/teaching-materials).
+### Default mode network scaffolds immature frontoparietal network in working memory development (published)
+The default mode network (DMN) is a workspace for the convergence of internal and external information. The frontal parietal network (FPN) is indispensable to executive functioning. We investigated how they interplay to support cognitive development. The findings showed that the DMN provides a scaffolding effect in support of an immature FPN that is critical for the development of executive functions in children.
 
-## Washington University in St. Louis
-- Pol Sci 3090: The Scientific Study of Civil War (Spring 2020)
-    - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
-- Pol Sci 3171: International Conflict Management & Resolution (Fall 2019)
-    - [Syllabus](/files/pdf/teaching/PS 3171 Syllabus.pdf)
-
-## The University of North Carolina at Chapel Hill
-- Poli 281: Quantitative Research in Political Science (Spring 2019)
-    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
-- Poli 891: Lab for Advanced Topics in Political Data Science (Fall 2017, Fall 2018)
-    - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf)
-
-## ICPSR Summer Program
-- Introduction to Applied Bayesian Modeling (Summer 2017)
-    - [Syllabus](/files/pdf/teaching/bayes2017.pdf)
+### Positive coping and hippocampal-neocortical maturation (preprint)
+The positive coping style is a key buffer against vulnerability to stress. We investigated the neurobiological mechanisms behind positive coping in children undergoing rapid brain development. The findings revealed that positive coping promotes hippocampal function through response in the endocrinal system and shapes hippocampal-neocortical functional systems involved in negative emotion processing.
