@@ -8,14 +8,15 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Projects"
+    url: /projects/
+
   - title: "Conferences"
     url: /conferences/    
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Projects"
-    url: /projects/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
@@ -25,3 +26,4 @@ main:
     
 #  - title: "Guide"
 #    url: /markdown/
+
