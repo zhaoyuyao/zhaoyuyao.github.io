@@ -2,11 +2,11 @@
 title: "Power of self-belief: Growth mindset fosters cognitive development via mesocortical functional coactivation and dynamic reconfiguration"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-Zhao-preprint
+permalink: /publication/2022-Zhao-preprint-1
 excerpt: ''
 date: 2022-07-11
 venue: 'bioRxiv (preprint)'
-paperurl: 'http://yuyaozhao.github.io/files/2022-Zhao-preprint.pdf'
+paperurl: 'http://yuyaozhao.github.io/files/2022-Zhao-preprint-1.pdf'
 citation: 'Zhao, Y., Xu, J., Chen, M., Hao, L., … Tao, S., Dong, Q., & Qin, S. (2022). Power of self-belief: Growth mindset fosters cognitive development via mesocortical functional coactivation and dynamic reconfiguration. (preprint). https://doi.org/10.1101/2022.07.11.499525'
 ---
 
