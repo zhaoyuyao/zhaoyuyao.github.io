@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: "Conference presentations & talks"
 permalink: /conferences/
 author_profile: true
 ---
